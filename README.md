@@ -41,5 +41,5 @@ git clone https://github.com/yourusername/basics-of-r.git
 🙌 Let's Learn R the Fun Way!
 Remember: No one was born knowing what str() does. We all started with print("Hello R!") 💙
 
-Made with 💻 + ☕ by [Your Name]
+Made with 💻 + ☕ by Mahima
 Feel free to fork, star ⭐, or drop an issue if you get stuck!
