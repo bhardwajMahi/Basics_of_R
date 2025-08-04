@@ -1,4 +1,4 @@
-import_DF = read.csv("C:/Users/mahim/OneDrive/Desktop/mahima/Bioinformatica_work/Content_plan/R_programming/R_for_bioinformatician/social.csv")
+import_DF = read.csv("social.csv")
 View(import_DF)
 
 names(import_DF)
@@ -82,5 +82,6 @@ Count_Banana = function(fruit_name){
 Count_Banana(y_vector)
 x_vector = c("banana","banana","banana","banana")
 Count_Banana(x_vector)
+
 
 
